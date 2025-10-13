@@ -119,7 +119,7 @@ body {
 }
 
 @utility banner-text-responsive {
-  @apply text-[68px] sm:text-[118px] md:text-[126px] lg:text-[152px] leading-9 sm:leading-16 lg:leading-20;
+  @apply text-[40px] sm:text-[40px] md:text-[80px] lg:text-[100px] leading-9 sm:leading-6 md:leading-16 lg:leading-16;
 }
 
 @utility value-text-responsive {
