@@ -1,78 +1,59 @@
 // index.js
 export const servicesData = [
   {
-    title: "FullStack Development",
+    title: "User Experience Design",
     description:
-      "Your business deserves a fast, secure, and future-proof digital foundation. I develop custom web apps with clean architecture, optimized databases, and seamless integrations—ensuring reliability at every layer.",
+      "Design isn’t just about how things look — it’s about how they work and how users feel. I focus on creating experiences that are intuitive, efficient, and enjoyable. Every design decision is backed by user insights, research, and testing to ensure each product feels natural and purposeful.",
     items: [
       {
-        title: "Backend Engineering",
-        description: "(REST/GraphQL APIs, Microservices, Auth Systems)",
+        title: "User Research & Strategy",
+        description: "(Conducting user interviews, persona creation, and journey mapping to define clear design goals)",
       },
       {
-        title: "Frontend Excellence",
-        description: "(React, Vue, TypeScript, Interactive UI/UX)",
+        title: "Wireframing & Prototyping",
+        description: "(Mockflow, Figma, Framer, Adobe illustrator)",
       },
       {
-        title: "Database Design",
-        description: "(SQL/NoSQL Optimization, Scalable Structures)",
+        title: "Usability Testing & UX Audits",
+        description: "(Analyzing user interactions and refining designs to ensure seamless, frustration-free experiences)",
       },
     ],
   },
   {
-    title: "DevOps & Cloud Solutions",
+    title: "User Interface Design",
     description:
-      "Deploying software shouldn't be a gamble. I automate infrastructure, enforce security, and leverage cloud platforms (AWS/Azure) to keep your app running smoothly—24/7, at any scale.",
+      "UI is where creativity meets clarity. My goal is to design interfaces that not only look visually striking but also communicate effortlessly. Every visual choice — from typography to motion — supports a consistent, scalable design system that strengthens brand identity and user trust.",
     items: [
       {
-        title: "CI/CD Pipelines",
-        description: "(GitHub Actions, Docker, Kubernetes)",
+        title: "Visual Design",
+        description: "(Crafting modern, polished UI layouts that reflect brand tone and enhance usability)",
       },
       {
-        title: "Server Management ",
-        description: "(Linux, Nginx, Load Balancing)",
+        title: "Design Systems",
+        description: "(Building reusable components, style guides, and UI kits for scalability and development efficiency)",
       },
       {
-        title: "Performance Tuning",
-        description: "(Caching, Compression, Lighthouse 90+ Scores)",
+        title: "Responsive & Adaptive Design",
+        description: "(Ensuring flawless performance and aesthetics across devices and screen sizes.)",
       },
     ],
   },
   {
-    title: "Security & Optimization",
+    title: "Product & Project Leadership",
     description:
-      "Slow or hacked apps destroy trust. I harden security (XSS/SQLI protection, OAuth) and optimize bottlenecks so your app stays fast, safe, and scalable as you grow.",
+      "Successful products come from strong direction and collaboration. My approach connects creative design thinking with structured project management — ensuring ideas are executed effectively, teams stay aligned, and outcomes match vision.",
     items: [
       {
-        title: "Code Audits",
-        description: "(Refactoring, Tech Debt Cleanup)",
+        title: "Product Strategy & Roadmapping",
+        description: "(Turning business goals into actionable design and development plans.)",
       },
       {
-        title: "Pen Testing",
-        description: "(Vulnerability Assessments)",
+        title: "Project Management & Team Collaboration",
+        description: "(Leading cross-functional teams using agile and scrum frameworks.)",
       },
       {
-        title: "SEO Tech Stack",
-        description: "(SSR, Metadata, Structured Data)",
-      },
-    ],
-  },
-  {
-    title: "Web & Mobile Apps",
-    description:
-      "A clunky interface can sink even the best ideas. I craft responsive, pixel perfect web and mobile apps (React Native/Flutter) that users love—bridging design and functionality seamlessly.",
-    items: [
-      {
-        title: "Cross-Platform Apps",
-        description: "(Single codebase for iOS/Android/Web)",
-      },
-      {
-        title: "PWAs",
-        description: "(Offline mode, Push Notifications)",
-      },
-      {
-        title: "E-Commerce",
-        description: "(Checkout flows, Payment Gateways, Inventory APIs)",
+        title: "Client & Stakeholder Communication",
+        description: "(Bridging design and business through clear, outcome-driven discussions.)",
       },
     ],
   },
