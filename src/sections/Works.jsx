@@ -145,11 +145,6 @@ const Works = () => {
                         <img src={project.image} alt={`${project.name}-image`} className='absolute bg-center px-14 rounded-xl' />
 
                     </div>
-
-
-                    
-
-
                 </div>
             ))}
 
