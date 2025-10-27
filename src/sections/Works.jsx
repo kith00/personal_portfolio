@@ -114,7 +114,7 @@ const Works = () => {
 
         <div className='relative flex flex-col font-light' onMouseMove={handleMouseMove}>
             {projects.map((project, index) => (
-                <div key={project.id} id='project' className='relative flex flex-col gap-1 py-5 cursor-pointer group md:gap-0' onMouseEnter={() => handleMouseEnter(index)} onMouseLeave={() => handleMouseLeave(index)}>
+                <a key={project.id} id='project'href={project.href} target="_blank" rel="noopener noreferrer" aria-label={`Visit ${project.name} project`} className='relative flex flex-col gap-1 py-5 cursor-pointer group md:gap-0' onMouseEnter={() => handleMouseEnter(index)} onMouseLeave={() => handleMouseLeave(index)}>
 
                     {/* {overlay} */}
                     <div ref={(el) =>{overlayRefs.current[index] = el;}} className='absolute inset-0 hidden md:block duration-200 bg-black -z-10 clip-path'/>
@@ -145,7 +145,7 @@ const Works = () => {
                         <img src={project.image} alt={`${project.name}-image`} className='absolute bg-center px-14 rounded-xl' />
 
                     </div>
-                </div>
+                </a>
             ))}
 
             {/* {desktop floating image} */}

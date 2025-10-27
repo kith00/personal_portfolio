@@ -16,7 +16,7 @@ const Hero = () => {
   return (
     <section id='home' className='flex flex-col justify-end min-h-screen'>
         <AnimatedHeaderSection 
-            subTitle={"404 No Bugs Found"}
+            subTitle={"Pixel Perfect. Logic Approved."}
             title={"Kithsandu Rathnayake"}
             text={text}
             textColor={"text-black"}

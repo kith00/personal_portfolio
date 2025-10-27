@@ -64,7 +64,7 @@ export const projects = [
     name: "Bonfire",
     description:
       "An online store specializing in phone accessories including cases, chargers, cables, and power banks with MagSafe compatibility.",
-    href: "",
+    href: "https://www.behance.net/gallery/221196601/Bonfire",
     image: "/assets/projects/Bonfire.png",
     bgImage: "/assets/backgrounds/blanket.jpg",
     frameworks: [
@@ -80,7 +80,7 @@ export const projects = [
     name: "EventX",
     description:
       "An online store specializing in rare and decorative plants with a clean, user-friendly interface.",
-    href: "",
+    href: "https://www.behance.net/gallery/222934521/EventX",
     image: "/assets/projects/Eventx.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -95,7 +95,7 @@ export const projects = [
     name: "Tapestry Villas",
     description:
       "An e-commerce platform for Apple products and accessories with deals and category filtering.",
-    href: "",
+    href: "https://www.behance.net/gallery/224076525/Luxury-Villa",
     image: "/assets/projects/Tapestry-Villas.png",
     bgImage: "/assets/backgrounds/map.jpg",
     frameworks: [
@@ -110,7 +110,7 @@ export const projects = [
     name: "Agency - Analogue",
     description:
       "A multi-category online shop featuring electronics, home appliances, and gaming gear with special offers.",
-    href: "",
+    href: "https://www.behance.net/gallery/222893597/Agency-analog-(digital-marketing-agency)",
     image: "/assets/projects/agency_analouge.png",
     bgImage: "/assets/backgrounds/poster.jpg",
     frameworks: [
@@ -125,7 +125,7 @@ export const projects = [
     name: "Studio Aqua - Luxe",
     description:
       "A curated collection of designer home decor items, including furniture and artisan vases.",
-    href: "",
+    href: "https://www.behance.net/gallery/221649885/Studio-AquaLuxe",
     image: "/assets/projects/Studio-Aqua-Luxe.png",
     bgImage: "/assets/backgrounds/table.jpg",
     frameworks: [
@@ -141,7 +141,7 @@ export const projects = [
     name: "Rainbow Swimming Academy",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/221438523/Rainbow-swimming-academy",
     image: "/assets/projects/Rainbow.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -156,7 +156,7 @@ export const projects = [
     name: "Human Resource Information System",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/221151761/Human-Resources-Information-System",
     image: "/assets/projects/HRIS.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -171,7 +171,7 @@ export const projects = [
     name: "Med - Talks",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/221001741/Med-Talks",
     image: "/assets/projects/Med-Talks.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -189,7 +189,7 @@ export const projects = [
     name: "Wealth Wave",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/220961845/Wealth-Wave",
     image: "/assets/projects/wealth wave.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -205,7 +205,7 @@ export const projects = [
     name: "Lion Star PVT.LTD",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/225133659/Lion-Star-plastics",
     image: "/assets/projects/Lion-Star.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -220,7 +220,7 @@ export const projects = [
     name: "Safenet",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/225511747/Safenet",
     image: "/assets/projects/Safenet.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -235,7 +235,7 @@ export const projects = [
     name: "Home Cinema - Susila PVT.LTD",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/225161361/Home-Cinema",
     image: "/assets/projects/Home-Cinema.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -250,7 +250,7 @@ export const projects = [
     name: "Marry Mentor",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://www.behance.net/gallery/220958591/Marry-Mentor",
     image: "/assets/projects/Marry-Mentor.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -266,7 +266,7 @@ export const projects = [
     name: "Vintage Slip",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://vintageslip.vercel.app/",
     image: "/assets/projects/Vintage-Slip.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -282,7 +282,7 @@ export const projects = [
     name: "Furno",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://dribbble.com/shots/23176594-Furno-Furniture-store",
     image: "/assets/projects/Furno.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
@@ -294,7 +294,7 @@ export const projects = [
     name: "BLEU - Home Fragrances",
     description:
       "A gaming platform featuring discounted titles, top sellers, and genre-based browsing.",
-    href: "",
+    href: "https://dribbble.com/shots/25987166-BLEU-Home-fragrances",
     image: "/assets/projects/BLEU.png",
     bgImage: "/assets/backgrounds/curtains.jpg",
     frameworks: [
